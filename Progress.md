@@ -1,8 +1,7 @@
 # Todo
-- Add to github
-- Test whole registration, activation, login, password reset loop
 - Persist login info in page and store id in cookie for next session login
 - Use login status to hide some things, e.g. event entries
+- Test whole registration, activation, login, password reset loop
 - Create and manage family members
 - Profile editor for self and family
 - Share family with other users (all become part of one family)
